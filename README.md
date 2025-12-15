@@ -30,7 +30,7 @@ StaticMeshWidget.h/cpp
 
 ![Ret1](https://github.com/mobuhiko/SMeshWidgetComparision/blob/main/Image/SMeshWidgetComparision1.png)
 
-It looks like Method 3 does not work with particle mesh, but sometimes the mesh is actually rendered in a weired way (that line). 
+It looks like Method 3 does not work with particle mesh, but sometimes the mesh is actually rendered in a weired way (that line, and it is rotating). 
 It sometimes appears by changing the alignment of the slot. 
 If you hide that widget, the line will also be hidden. 
 
