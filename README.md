@@ -36,6 +36,8 @@ If you hide that widget, the line will also be hidden.
 
 ![Ret2](https://github.com/mobuhiko/SMeshWidgetComparision/blob/main/Image/SMeshWidgetComparision2.png)
 
+For Method 3, I do not understand why it works, and it seems that it does not use mesh instance in code, which may lead some performance issue in some cases. 
+
 ## Conclusion
 
 All of the methods above have their own problems, so I don't think it is a good idea to use them in production. 
